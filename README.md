@@ -11,6 +11,4 @@ The project includes:
 
 ## How to Run the Project
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Apollo_11_Alarm_Analysis.git
-   cd Apollo_11_Alarm_Analysis
+https://github.com/Husseinshtia1/Apollo/
